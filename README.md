@@ -1,3 +1,6 @@
+file link:https://www.figma.com/design/FfM8MAgjqya5IXymSzHHdG/future-intern-task-2?node-id=0-1&t=y9eEjqJPcfHLvDpb-1
+
+
 # focus
 A mobile-first fitness &amp; wellness app designed with empathy and simplicity. Created as part of an opportunity with Future Interns, it includes Home, Dashboard, and Activity Detail screens with calm colours, clear typography, accessibility, and intuitive micro-interactions.
 # Fitness & Wellness App – UI/UX Design
